@@ -23,5 +23,8 @@ Setting up and using our proxy manager app is easy
 - **Download the proxy manager app from [Google Play](https://play.google.com/store/apps/details?id=io.oxylabs.proxymanager)**
 - **Add your proxy information (authentication details, port, IP address)**
 
+# Works with any proxy provider
+
+Manage **all of your proxies in one place** – Oxy® Proxy Manager app works with any proxy provider. Add all the proxies you have so you don’t have to go through various settings and menu options on several platforms. As an alternative to the app, you can use our [proxy management extension for Google Chrome.](https://chromewebstore.google.com/detail/oxylabs-proxy-extension/infajoaodhhdogakhloedbppcbeajhoo?pli=1)
 
 No registration is required  Download the proxy manager app from Google Play  Add your proxy information (authentication details, port, IP address)
