@@ -7,9 +7,9 @@
 ## Oxy® Proxy Manager App
 
 Add, remove, and connect to your proxies with our free-of-charge Oxy® Proxy Manager application. 
-**-Hassle-free set up**
-**-Works with any proxy provider**
-**-50K downloads on Google Play**
+- **Hassle-free set up**
+- **Works with any proxy provider**
+- **50K downloads on Google Play**
 
 ## Simplistic design, no unnecessary features
 
