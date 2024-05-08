@@ -11,11 +11,11 @@ Add, remove, and connect to your proxies with our free-of-charge Oxy® Proxy Man
 **-Works with any proxy provider**
 **-50K downloads on Google Play**
 
-##Simplistic design, no unnecessary features
+## Simplistic design, no unnecessary features
 
 Our **free-of-charge** proxy manager app is specifically designed to serve one purpose – making proxy management effortless. It has a simplistic, no-frill design and one-tap connection buttons, allowing you to switch between IPs on the spot. 
 
-##Hassle-free set up process
+## Hassle-free set up process
 
 Setting up and using our proxy manager app is easy:
 **-No registration is required**
