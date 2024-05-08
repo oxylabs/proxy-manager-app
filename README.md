@@ -18,9 +18,9 @@ Our **free-of-charge** proxy manager app is specifically designed to serve one p
 ## Hassle-free set up process
 
 Setting up and using our proxy manager app is easy:
-**-No registration is required**
-**-Download the proxy manager app from Google Play**
-**-Add your proxy information (authentication details, port, IP address)**
+-**No registration is required**
+-**Download the proxy manager app from Google Play**
+-**Add your proxy information (authentication details, port, IP address)**
 
 
 No registration is required  Download the proxy manager app from Google Play  Add your proxy information (authentication details, port, IP address)
