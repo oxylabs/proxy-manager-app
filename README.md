@@ -20,7 +20,7 @@ Our **free-of-charge** proxy manager app is specifically designed to serve one p
 Setting up and using our proxy manager app is easy
 
 - **No registration is required**
-- **Download the proxy manager app from Google Play**
+- **Download the proxy manager app from [Google Play](https://play.google.com/store/apps/details?id=io.oxylabs.proxymanager)**
 - **Add your proxy information (authentication details, port, IP address)**
 
 
